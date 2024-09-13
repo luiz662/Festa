@@ -56,3 +56,15 @@
     .btns a:hover{/* para estlizar os botoões e assim que passar o mouse por cima alterar a cor. */
     background-color: #27ef92;  
     } 
+
+    .luiz {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: center;
+
+    }
+
+    .james img{
+        width: 300px;
+    }
